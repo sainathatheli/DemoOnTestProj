@@ -8,4 +8,17 @@ public class Test {
 		
 	}
 	
+	
+	public void methodOne() {
+		System.out.println("we are in methodOne");
+		
+	}
+	
+	public void methodTwo() {
+		System.out.println("we are in methodTwo");
+		
+	}
+	
+	
+	
 }
